@@ -12,7 +12,7 @@ title                    : "Peach's Blog"
 title_separator          : "-"
 name                     : &name "Kerong Tao"
 description              : &description "personal description"
-url                      : https://peachjamm.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://peachjamm.github.io/peachblog/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "peachjamm/peachblog"
 
