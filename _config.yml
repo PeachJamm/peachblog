@@ -12,7 +12,7 @@ title                    : "Peach's Blog"
 title_separator          : "-"
 name                     : &name "Kerong Tao"
 description              : &description "personal description"
-url                      : https://peachjamm.github.io/peachblog/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://peachjamm.github.io/peachblog # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "peachjamm/peachblog"
 
@@ -43,7 +43,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "peachjamm"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
