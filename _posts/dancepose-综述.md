@@ -1,3 +1,13 @@
+---
+title: 'DancePose初步研究'
+date: 2012-08-14
+permalink: /posts/2012/08/blog-post-8/
+tags:
+  - cool posts
+  - category1
+  - category2
+---
+
 # DancePose初步研究
 
 ## 入门——单一动作识别
